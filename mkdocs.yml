@@ -13,6 +13,7 @@ nav:
       - cigbutt/烟蒂股分析Prompt_v1.3.md
   - 龟龟投资策略 (Turtle):
       - Overview: turtle_framework/index.md
+      - turtle_framework/龟龟投资策略_AI_Prompt_v0.11.md
       - turtle_framework/龟龟投资策略_AI_Prompt_v0.10.md
       - turtle_framework/龟龟投资策略_AI_Prompt_v0.9.md
       - turtle_framework/龟龟投资策略_AI_Prompt_v0.8.md
