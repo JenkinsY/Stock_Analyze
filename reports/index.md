@@ -22,3 +22,9 @@
 - [2660HK 禅游科技](cigbutt_reports/2660HK_禅游科技烟蒂股分析报告.md)
 - [中教控股 00839.HK](cigbutt_reports/中教控股(00839.HK)烟蒂股精确量化分析报告.md)
 - [京投交通科技](cigbutt_reports/京投交通科技_烟蒂股分析报告_v1.3.md)
+
+## 龟龟投资策略分析报告
+
+- [DUOL 多邻国](turtle_reports/DUOL_龟龟投资策略分析报告.md)
+- [TCOM 携程](turtle_reports/TCOM_龟龟投资策略分析报告.md)
+- [古井贡酒](turtle_reports/古井贡_龟龟投资策略分析报告.md)
